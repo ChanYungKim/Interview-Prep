@@ -21,7 +21,7 @@
 
 ### Programs
 
-- [automated trading](#Automated Trading) strategies that involve executing trades on a large scale, often focusing on a [basket](#Basket) of stocks or a specific trading strategy
+- [automated trading](#Automated-Trading) strategies that involve executing trades on a large scale, often focusing on a [basket](#Basket) of stocks or a specific trading strategy
 
 ### Automated Trading
 
