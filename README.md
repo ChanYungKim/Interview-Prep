@@ -52,15 +52,17 @@ Based on my research, NH Investment & Securities in Hong Kong is primarily focus
 
 In order to quickly catch up with the rapidly evolving technology, I would like to actively utilize the training reimbursement scheme to obtain IT-related certifications. Furthermore, based on my experience at Societe Generale, senior engineers who are recognized in the finance industry and provide creative solutions in the finance sector not only focused on technical studies, but also had a deep understanding of financial products and held finance-related certifications. Therefore, in order to become a senior engineer who is recognized and provides creative solutions, I am also studying to obtain finance-related certifications such as the CFA.
 
-## Questions
+## Questions Kor
 
 1. 큐브 (QV) 시스템 유지 보수. 큐브 시스템의 의미
 2. 진행중이거나 진행 계획이 있는 자동화 프로젝트가 있다면 알려주실수 있는지
 3. 2024/2025 년 목표하고 있는 타겟이 있는지 혹은 로드맵이 있는지
 
-4. the actual meaning of QV system
-5. any on going automation project or any plan
-6. 2024/2025 target and overall roadmap
+## Questions Eng
+
+1. the actual meaning of QV system
+2. any on going automation project or any plan
+3. 2024/2025 target and overall roadmap
 
 ## Appendix
 
