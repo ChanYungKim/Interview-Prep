@@ -1,8 +1,8 @@
 # Interview-Prep
 
-## - [Manulife Software Engineer](Manulife-Interview-Prep)
+## - [Manulife Software Engineer](#Manulife-Interview-Prep)
 
-## - [NH IT Engineer](NH-Interview-Prep)
+## - [NH IT Engineer](#NH-Interview-Prep)
 
 # Manulife-Interview-Prep
 
