@@ -6,6 +6,26 @@
 
 # Manulife-Interview-Prep
 
+## Introduction
+
+I studied Electronic Engineering at The University of Hong Kong.
+Upon my graduation in 2022, I joined Societe Generale as an I.T Engineer Trainee.
+
+During my time at Societe Generale, I worked with Java and SpringBoot to develop backened services and enhanced existing applications.
+In addition, I have experience in deploying new features and applications using Docker and Kubernetes. I also have experience in working with SQL.
+Therefore, I would be capable of fulfilling the responsibilities listed in the JD.
+
+Beside my background in I.T, I served in Korean army for 2 years from 2017 to 2019.
+My time serving in military taught me to become a more responsible and proactive person.
+
+Based on these experiences, I would be a software engineer who communicates and collaborates to provide the best I.T services to the clients and achieve the commercial goals of Manulife.
+
+## Motivation
+
+Considering my background in I.T and Engineering, I would be capable of providing the I.T services to the clients to excess the financial services provided by Manulife more efficiently and effectively.
+
+In addition, I have a huge personal interest in various financial services.
+
 # NH-Interview-Prep
 
 ## Clearing and Settlement System
