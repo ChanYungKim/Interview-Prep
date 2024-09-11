@@ -14,7 +14,7 @@ Upon my graduation in 2022, I joined Societe Generale as an I.T Engineer Trainee
 During my time at Societe Generale, I worked with Java and SpringBoot to develop backened services and enhanced existing applications.
 In addition, I have experience in deploying new features and applications using Docker and Kubernetes. I also have experience in working with SQL.
 Prior to my time at Societe Generale, I also have around 1 year of engineering intership experience at NamWah Intelligent Automation limited.
-Therefore, I would be capable of fulfilling the responsibilities listed in the JD.
+Therefore, I would be capable of taking the responsibilities listed in the JD.
 
 Beside my background in I.T, I served in Korean army for 2 years from 2017 to 2019.
 My time serving in military taught me to become a more responsible and proactive person.
