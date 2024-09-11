@@ -23,9 +23,15 @@ Based on these experiences, I would be a software engineer who communicates and 
 
 ## Motivation
 
-Considering my background in I.T and Engineering, I would be capable of providing the I.T services to the clients to excess the financial services provided by Manulife more efficiently and effectively.
+Considering my background in I.T and Engineering, I am passionate about providing the most effective and efficient financial services through cutting edge technology.
 
 In addition, I have a huge personal interest in various financial services.
+
+## Questions
+
+1. Can you share the daily BAU and the applications your team develops and support?
+
+2. What do you expect from the cadidate and how do you expect the candidate to adapt to the team if the cadidate were to join the team?
 
 ## Technical
 
