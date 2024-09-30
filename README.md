@@ -1,8 +1,45 @@
 # Interview-Prep
 
+## - [Galaxy ](#Galaxy-Interview-Prep)
+
 ## - [Manulife Software Engineer](#Manulife-Interview-Prep)
 
 ## - [NH IT Engineer](#NH-Interview-Prep)
+
+# Galaxy-Interview-Prep
+
+I am feeling great. I went for hiking yesterday. How about you?
+
+## Familiarity
+
+- I have a general understanding of a few interesting business sectors at Galaxy from my research such as [ ... ]. But I would love to hear more about Galaxy and the role from your perspective.
+
+## Introduction
+
+I studied Electronic Engineering at The University of Hong Kong. Upon my graduation in 2022, I joined Societe Generale as an I.T Engineer Trainee.
+
+During my time at Societe Generale, I worked with Java, Python and SQL to develop backened services and enhanced existing applications. In addition, I have experience in deploying new features and applications using Docker and Kubernetes. Prior to my time at Societe Generale, I also have around 1 year of engineering intership experience at NamWah Intelligent Automation limited. Therefore, I would be capable of taking the responsibilities listed in the JD.
+
+Beside my background in I.T, I served in Korean army for 2 years from 2017 to 2019. My time serving in military taught me to become a more responsible and proactive person.
+
+Based on these experiences, I would be a production support engineer who communicates and collaborates to provide the best I.T services to the clients and stakholders to achieve the commercial goals of Galaxy.
+
+## Motivation
+
+Considering my passion in crypto and blockchain technology, and my background in I.T and Engineering, I would like to contribute in providing production support across cryptocurrency business lines crypto trading.
+
+## Reasons for leaving
+
+The graduate trainee role at SocGen is a contract role with maximum extension of 2 years.
+So, I left on good terms and I still stay in touch and continue to network with people from SocGen.
+Furthermore, I am currently more passion in crypto and blockchain innovations.
+
+## Questions
+
+## Salary
+
+I have researched that the average salary offereed to interns and new joiners is around 40k if I am not mistaken.
+So, as a new joiner I am expecting something in the range of 40k to 45k. But I am negotiable.
 
 # Manulife-Interview-Prep
 
