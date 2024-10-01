@@ -26,13 +26,19 @@ Based on these experiences, I would be a production support engineer who communi
 
 ## Motivation
 
-Considering my passion in crypto and blockchain technology, and my background in I.T and Engineering, I would like to contribute in providing production support across cryptocurrency business lines crypto trading.
+Considering my passion in crypto and blockchain technology, and my background in I.T and Engineering, I can and wish to contribute in crypto and blockchain industry.
 
-## Reasons for leaving
+## Departing Reasons
 
 The graduate trainee role at SocGen is a contract role with maximum extension of 2 years.
 So, I left on good terms and I still stay in touch and continue to network with people from SocGen.
-Furthermore, I am currently more passion in crypto and blockchain innovations.
+Furthermore, I am currently more passion in crypto trading and blockchain innovations.
+
+## Story Box
+
+1. In my previous role at SocGen, I notice a problem in one of the morning support protocols, to check application servers connnectivity. The problem was that the testing process was very manual and time consuming and impacting overall efficiency of the team. Recognizing the potential negative impact on productivity, I decided to address the issue proactively. I scheduled a meeting to discuss it with my manager. During the conversation I proposed a streamlined approach to automate this connectivity testing by writing a Python script. My boss appreciated my proactive discussion and willingness to suggest solutions. I implemented the proposed changes which resulted in faster testing and quickly recognizing dead application servers. The script was shared among the team and shrotend the overall time of morning support.
+
+2. In the very begining of my previous role at SocGen, I faced challenge when I had to add-on a new feature to a small application and deploy the new binary to the production. The problem was that the application crashed after my deployment as I ommited some of deployment steps due to my misunderstanding. I quickly escalated the incident to my senior engineer after the crash and he helped me to address the issue. I was nervous about the mistake I made but after the roll-back of the application, my senior advice me and I was able to learn the proper deployment steps and roll-back procedures. This experience of mine taught me to become a more detailed oriented person and opportunity to learn correct deployment steps and roll-back procedures.
 
 ## Questions
 
